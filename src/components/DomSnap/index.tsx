@@ -5,6 +5,8 @@ interface IProps {}
 // 12 | 快照测试：怎么保障组件 UI 的完整？
 export const DomSnap: FC<IProps> = ({}) => {
   return (
+
+    
     <form aria-label="form">
       <input
         type="text"
